@@ -10,4 +10,4 @@ The Colorado Elections Board asked us to perform an election audit of a congress
 
 ## Election-Audit results
 In that congressional election 369,711 votes were casted. The precinct is divided into three counties : Jefferson, Denver and Arapahoe. In the Jefferson county, it's 38,855 votes that were casted.It represents 10.51% of the total votes. It was 306,055 votes in Denver (82.78%) and 24,801 votes in Arapahoe (6.71%). With those results, we can see that the Denver county had the most votes. The three candidate were: Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. Mr. Stockham received 23% of the votes (85,213), Mrs. DeGette got 73.8% of the votes (272,892) and Mr.Doane had 3.1% of the votes (11,606). The winner is Mrs.DeGette with a majority of 73.8% of the votes. The image below wraps up everything in that paragraph. 
-![](images/election_results.jpeg)
+![](images/election_results.jpg)
